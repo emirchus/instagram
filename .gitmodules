@@ -1,0 +1,3 @@
+[submodule "instragram-app"]
+	path = instragram-app
+	url = git@github.com:emirchus/instragram-app.git
