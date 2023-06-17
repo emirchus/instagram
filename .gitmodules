@@ -1,6 +1,6 @@
-[submodule "instragram-app"]
-	path = instragram-app
-	url = git@github.com:emirchus/instragram-app.git
+[submodule "instagram-app"]
+	path = instagram-app
+	url = git@github.com:emirchus/instagram-app.git
 [submodule "instagram-backend"]
 	path = instagram-backend
 	url = git@github.com:emirchus/instagram-backend.git
